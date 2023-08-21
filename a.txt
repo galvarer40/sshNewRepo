@@ -8,10 +8,13 @@
 </head>
   <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
   	<H1>This is my header</H1>
 	<P>Paragraph 1</p>
 =======
 	<H2>Orca II</H2>
 >>>>>>> bff413c17bd470396224963cbde9de616f6eb5fb
+=======
+>>>>>>> 2f8eda69e9279f7da8ba7490b1396062fde0a72e
   </body>
 </html>
