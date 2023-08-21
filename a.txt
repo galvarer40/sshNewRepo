@@ -7,6 +7,5 @@
 	</style>
 </head>
   <body>
-	<H2>Orca II</H2>
   </body>
 </html>
